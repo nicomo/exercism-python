@@ -1,0 +1,9 @@
+.pytest_cache/
+.vscode/
+# Exercism
+*.exercism/
+*.solution.json
+
+# Python
+*__pycache__/
+*.pytest_cache/
